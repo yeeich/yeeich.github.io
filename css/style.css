@@ -1,0 +1,57 @@
+body {
+  background-color: #f7f6f3;
+  font-family: "Libre Franklin", Verdana, sans-serif;
+}
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(0, 60, 110, 1);
+}
+
+.menu li {
+  float: left;
+}
+
+.menu a {
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  background-color: #aaa;
+  color: black;
+  text-decoration: none;
+}
+
+.social-media ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.social-media li {
+  float: left;
+}
+
+.social-media a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.main {
+  font-family: "Lora", Georgia, serif;
+  color: rgb(0, 60, 110);
+}
+
+p.main {
+  font-variant: small-caps;
+}
